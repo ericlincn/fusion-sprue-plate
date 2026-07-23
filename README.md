@@ -6,7 +6,7 @@ Before:
 <img width="1266" height="980" alt="Screenshot_20260703021644" src="https://github.com/user-attachments/assets/6d68cb32-2d9a-4e01-a98a-7e5185392e71" />
 
 After:
-<img width="1521" height="891" alt="Screenshot_20260703021514" src="https://github.com/user-attachments/assets/9c7ef7e6-51ea-429a-a653-90ab7d0286c5" />
+<img width="993" height="630" alt="Screenshot_20260723203544" src="https://github.com/user-attachments/assets/135c1de9-a7e4-4b47-881c-ac0b59a744bc" />
 
 ---
 
