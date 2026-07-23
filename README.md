@@ -3,7 +3,7 @@
 A Python script for Autodesk Fusion that automatically arranges visible solid bodies into a flat layout, connects them with a structural frame and support sprues, and merges everything into a single solid body – exactly like a plastic model kit parts tree (sprue). The result is optimized for convenient 3D printing as one piece.
 
 Before:
-<img width="1266" height="980" alt="Screenshot_20260703021644" src="https://github.com/user-attachments/assets/6d68cb32-2d9a-4e01-a98a-7e5185392e71" />
+<img width="792" height="623" alt="Screenshot_20260723203700" src="https://github.com/user-attachments/assets/5be9a693-54a7-47fd-a960-10861f4e576a" />
 
 After:
 <img width="993" height="630" alt="Screenshot_20260723203544" src="https://github.com/user-attachments/assets/135c1de9-a7e4-4b47-881c-ac0b59a744bc" />
